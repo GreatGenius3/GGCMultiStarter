@@ -1,0 +1,16 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "build\\debug",
+      "build\\release",
+      "out\\build\\msvc-debug",
+      "out\\build\\msvc-release"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\Exampel01"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
