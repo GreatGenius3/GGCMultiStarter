@@ -1,2 +1,2 @@
 # GGCMultiStarter
-En mall för att börja med C och har Debug och Release mode och även med multibla projekt. Se bara till att lägga in allt i CMakeLists.txt
+Samma som GGCStarter men med multiplar projekt. Blir perfekt om man vill bygga flera projekt samtidigt.
